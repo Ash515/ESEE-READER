@@ -13,8 +13,8 @@
 [ESEE READER](https://docs.google.com/presentation/d/1X_j90BNUnj3x8gA68DQRr31mnw2t9j0Fn1nDlxOzdM0/edit?usp=drivesdk)
 
 ## Image Result
-<img src="/Image Result/op1.jpg" width="450px"> <img src="/Image Result/op2.jpg" width="450px" height="300px">
- <img src="/Image Result/op3.jpg" width="450px" height="300px">
+<img src="/Image Result/op1.jpg" width="400px"> <img src="/Image Result/op2.jpg" width="400px" height="300px">
+ <img src="/Image Result/op3.jpg" width="400px" height="300px">
 
 # Developer ❤
 [Ashwin Kumar Ramaswamy](https://github.com/Ash515)
