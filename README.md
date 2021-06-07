@@ -4,6 +4,12 @@
 - This can be achieved by making simple changes in energy meter so that each and every individual can know the exact cost of the electric consumption in their home.
 - By doing so, even the illiterate people can be able to know the equivalent cost of the electric energy consumed in their homes.
 
+## Benifits
+1. User friendly
+2. Save lots of energy
+3. Getting message in mobile
+4. Save money
+
 ## Tech Stacks
 - C programming.
 - Arduino Programming.
